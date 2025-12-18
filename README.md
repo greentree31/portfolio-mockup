@@ -1,9 +1,8 @@
 <<<<<<< HEAD
 # Portfolio Course
-
-https://greentree31.github.io/portfolio-mockup/
 =======
-# `Portfolio Course`
+https://greentree31.github.io/portfolio-mockup/
+
 
 ![A picture of the portfolio website.](assets/images/portfolio%20sample.png)
 ![A picture of the portfolio website.](assets/images/portfolio-2.png)
