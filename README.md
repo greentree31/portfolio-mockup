@@ -2,7 +2,7 @@
 
 ![A picture of the portfolio website.](assets/images/portfolio%20sample.png)
 
-https://greentree31.github.io/portfolio-mockup/
+https://github.com/greentree31/portfolio-mockup.git
 
 ## Description
 
