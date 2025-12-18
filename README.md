@@ -1,4 +1,4 @@
-# `<Portfolio Mockup>`
+# `Portfolio Course`
 
 ![A picture of the portfolio website.](assets/images/portfolio%20sample.png)
 
