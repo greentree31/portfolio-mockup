@@ -1,8 +1,9 @@
-# `<Portfolio Mockup>`
+# Portfolio Course
+
+https://greentree31.github.io/portfolio-mockup/
 
 ![A picture of the portfolio website.](assets/images/portfolio%20sample.png)
-
-https://github.com/greentree31/portfolio-mockup.git
+![A picture of the portfolio website.](assets/images/portfolio-2.png)
 
 ## Description
 
