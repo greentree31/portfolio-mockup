@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Portfolio Course
-=======
+
 https://greentree31.github.io/portfolio-mockup/
 
 
