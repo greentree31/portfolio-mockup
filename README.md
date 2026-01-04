@@ -1,7 +1,6 @@
-# Portfolio Course
+# Portfolio as a Course
 
 https://greentree31.github.io/portfolio-mockup/
-
 
 ![A picture of the portfolio website.](assets/images/portfolio%20sample.png)
 ![A picture of the portfolio website.](assets/images/portfolio-2.png)
@@ -21,10 +20,10 @@ I created this site in Aritculate Rise 360 as a sample of my background and resu
 
 ## Tech Stack & Tools Used
 
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **E-Learning Authoring:** Articulate Rise 360  
-- **Standards:** SCORM (course packaging and LMS communication)  
-- **Design Tools:** Adobe Creative Suite  
-- **UX/UI:** Responsive layouts, accessibility considerations  
-- **Testing & QA:** LMS testing, content validation, user experience review  
+- **Frontend:** HTML5, CSS3, JavaScript
+- **E-Learning Authoring:** Articulate Rise 360
+- **Standards:** SCORM (course packaging and LMS communication)
+- **Design Tools:** Adobe Creative Suite
+- **UX/UI:** Responsive layouts, accessibility considerations
+- **Testing & QA:** LMS testing, content validation, user experience review
 - **Version Control:** Git, GitHub
